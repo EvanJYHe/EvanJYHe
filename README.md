@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Evan! 👋
 
-<!--
-**EvanJYHe/EvanJYHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I use light mode! Here's a snapshot of my activity and favorite programming languages:
 
-Here are some ideas to get you started:
+### 🔍 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanJYHe&show_icons=true)](https://github.com/EvanJYHe/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Evan's Stats](https://github-readme-stats.vercel.app/api?username=EvanJYHe&show_icons=true&theme=transparent)
+
+### 🔥 Streak Stats
+![Evan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvanJYHe&theme=transparent&hide_border=true)
+
