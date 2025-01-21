@@ -1,4 +1,4 @@
-## Hi, I'm Evan! 👋
+# Hi, I'm Evan! 👋
 
 Welcome to my GitHub profile! I use light mode! Here's a snapshot of my activity and favorite programming languages:
 
