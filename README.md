@@ -2,7 +2,7 @@
 
 i build roblox games!
 
-management engineering student @ waterloo by day. batman by night.
+management engineering student @ waterloo
 
 i also do hackathons when i can.
 
