@@ -10,4 +10,4 @@ i also do hackathons when i can.
 - game studio → [glazinggorillagames.com](https://glazinggorillagames.com)
 
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/EvanJYHe/EvanJYHe/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/EvanJYHe/EvanJYHe/output/github-contribution-grid-snake.svg?v=1)
