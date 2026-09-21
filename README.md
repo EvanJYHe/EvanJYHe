@@ -4,7 +4,7 @@ i build roblox games!
 
 management engineering student @ waterloo
 
-i also do hackathons when i can.
+i also love hackathons -> [6x winner](https://devpost.com/evan-he24) 
 
 - personal site → [evanhe.co](https://evanhe.co)
 - game studio → [glazinggorillagames.com](https://glazinggorillagames.com)
